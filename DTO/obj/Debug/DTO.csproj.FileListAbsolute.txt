@@ -1,0 +1,6 @@
+D:\ltql\QLKS\DTO\bin\Debug\DTO.dll
+D:\ltql\QLKS\DTO\bin\Debug\DTO.pdb
+D:\ltql\QLKS\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\ltql\QLKS\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\ltql\QLKS\DTO\obj\Debug\DTO.dll
+D:\ltql\QLKS\DTO\obj\Debug\DTO.pdb

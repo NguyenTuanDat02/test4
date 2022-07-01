@@ -1,0 +1,11 @@
+D:\ltql\QLKS\BUS\bin\Debug\BUS.dll
+D:\ltql\QLKS\BUS\bin\Debug\BUS.pdb
+D:\ltql\QLKS\BUS\bin\Debug\DAO.dll
+D:\ltql\QLKS\BUS\bin\Debug\DTO.dll
+D:\ltql\QLKS\BUS\bin\Debug\DAO.pdb
+D:\ltql\QLKS\BUS\bin\Debug\DTO.pdb
+D:\ltql\QLKS\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\ltql\QLKS\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\ltql\QLKS\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\ltql\QLKS\BUS\obj\Debug\BUS.dll
+D:\ltql\QLKS\BUS\obj\Debug\BUS.pdb
